@@ -697,6 +697,11 @@ img {
     fill: var(--light-txt-color);
 }
 
+/*register-form*/
+.register-form-field {
+    display: block;
+}
+
 /* Portfolio.html*/
 
 
